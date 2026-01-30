@@ -1,46 +1,39 @@
-🐢 Python Turtle Klavye Kontrollü Çizim Oyunu
+Python Turtle Çizim Oyunu
 
-Bu proje, Python Turtle kütüphanesi kullanılarak geliştirilmiş, klavye ile kontrol edilen basit bir çizim oyunudur 
-Oyuncu, turtle karakterini klavye tuşlarıyla yönlendirerek ekranda serbest çizimler yapabilir.
+Bu proje, Python programlama dili kullanılarak geliştirilen, klavye ile kontrol edilebilen basit bir çizim oyunudur.
+Uygulama, turtle kütüphanesi ile grafik çizimi ve klavye olaylarının kullanımını göstermektedir.
 
-🎯 Oyun Tanımı
+Oyun Açıklaması
 
-Oyun başladığında sarı arka planlı bir pencere açılır ve ekranın ortasında bir turtle (kaplumbağa) bulunur 
-Oyuncu, klavye yardımıyla turtle’ı ileri hareket ettirir, sağa veya sola döndürür.
+Program çalıştırıldığında bir çizim ekranı açılır ve ekranda bir turtle nesnesi yer alır.
+Kullanıcı, klavye tuşları aracılığıyla turtle’ı ileri hareket ettirebilir, sağa ve sola döndürebilir.
 
-Kalem açık durumdaysa turtle hareket ettikçe ekranda çizim yapılır 
-Kalem kapatıldığında ise turtle iz bırakmadan hareket eder.
+Kalem açık durumdayken turtle hareket ettikçe ekranda çizim yapılır.
+Kalem kapalıyken turtle iz bırakmadan hareket eder.
+Kullanıcı isterse çizimi temizleyebilir veya turtle’ı başlangıç konumuna döndürebilir.
 
-Oyuncu dilerse çizimi temizleyebilir veya turtle’ı başlangıç noktasına geri gönderebilir 
-Bu sayede ekranda farklı şekiller ve desenler oluşturulabilir.
+Klavye Kontrolleri
 
-🎮 Oyun Kontrolleri
-Tuş	Görev
-Space	Turtle’ı 50 birim ileri götürür ⬆️
-↑	Turtle’ı sola doğru 50° döndürür ↩️
-↓	Turtle’ı sağa doğru 50° döndürür ↪️
-C	Ekrandaki tüm çizimleri temizler 🧹
-A	Turtle’ı başlangıç noktasına getirir 🏠
-W	Kalemi aşağı indirir (çizim başlar) ✏️
-Q	Kalemi kaldırır (iz bırakmaz) 🚫✏️
-📜 Oyun Kuralları
+Space: İleri hareket
 
-⏳ Süre ve skor sistemi yoktur
+Yukarı ok: Sola dönme
 
-🎨 Oyuncu serbest şekilde çizim yapabilir
+Aşağı ok: Sağa dönme
 
-⌨️ Kontrol tamamen klavye ile sağlanır
+W: Kalemi indir
 
-❌ Oyundan çıkmak için pencere kapatılır
+Q: Kalemi kaldır
 
-✨ Oyun Özellikleri:
+C: Ekranı temizle
 
-🎮 Klavye kontrollü oyun yapısı
+A: Başlangıç noktasına dön
 
-🐢 Gerçek zamanlı turtle hareketi
+Programın Amacı
 
-✏️ Kalem açma / kapama sistemi
+Bu projenin amacı:
 
-🧹 Çizim temizleme özelliği
+Python Turtle kütüphanesinin kullanımını öğretmek
 
-🎨 Basit ve kullanıcı dostu arayüz
+Klavye olayları ile etkileşimli programlama mantığını göstermek
+
+Fonksiyon kullanımı ile kodun düzenli yazılmasını sağlamaktır

@@ -1,17 +1,17 @@
 🐢 Python Turtle Klavye Kontrollü Çizim Oyunu
 
-Bu proje, Python Turtle kütüphanesi kullanılarak geliştirilmiş, klavye ile kontrol edilen basit bir çizim oyunudur 🎮
+Bu proje, Python Turtle kütüphanesi kullanılarak geliştirilmiş, klavye ile kontrol edilen basit bir çizim oyunudur 
 Oyuncu, turtle karakterini klavye tuşlarıyla yönlendirerek ekranda serbest çizimler yapabilir.
 
 🎯 Oyun Tanımı
 
-Oyun başladığında sarı arka planlı bir pencere açılır ve ekranın ortasında bir turtle (kaplumbağa) bulunur 🐢
+Oyun başladığında sarı arka planlı bir pencere açılır ve ekranın ortasında bir turtle (kaplumbağa) bulunur 
 Oyuncu, klavye yardımıyla turtle’ı ileri hareket ettirir, sağa veya sola döndürür.
 
 Kalem açık durumdaysa turtle hareket ettikçe ekranda çizim yapılır 
 Kalem kapatıldığında ise turtle iz bırakmadan hareket eder.
 
-Oyuncu dilerse çizimi temizleyebilir 🧹 veya turtle’ı başlangıç noktasına geri gönderebilir 🏠
+Oyuncu dilerse çizimi temizleyebilir veya turtle’ı başlangıç noktasına geri gönderebilir 
 Bu sayede ekranda farklı şekiller ve desenler oluşturulabilir.
 
 🎮 Oyun Kontrolleri

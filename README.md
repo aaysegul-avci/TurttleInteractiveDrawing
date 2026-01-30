@@ -26,14 +26,21 @@ Q	Kalemi kaldırır (iz bırakmaz) 🚫✏️
 📜 Oyun Kuralları
 
 ⏳ Süre ve skor sistemi yoktur
+
 🎨 Oyuncu serbest şekilde çizim yapabilir
+
 ⌨️ Kontrol tamamen klavye ile sağlanır
+
 ❌ Oyundan çıkmak için pencere kapatılır
 
 ✨ Oyun Özellikleri:
 
 🎮 Klavye kontrollü oyun yapısı
+
 🐢 Gerçek zamanlı turtle hareketi
+
 ✏️ Kalem açma / kapama sistemi
+
 🧹 Çizim temizleme özelliği
+
 🎨 Basit ve kullanıcı dostu arayüz

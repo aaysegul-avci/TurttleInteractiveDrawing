@@ -32,8 +32,8 @@ Programın Amacı
 
 Bu projenin amacı:
 
-Python Turtle kütüphanesinin kullanımını öğretmek
+**Python Turtle kütüphanesinin kullanımını öğretmek
 
-Klavye olayları ile etkileşimli programlama mantığını göstermek
+**Klavye olayları ile etkileşimli programlama mantığını göstermek
 
-Fonksiyon kullanımı ile kodun düzenli yazılmasını sağlamaktır
+**Fonksiyon kullanımı ile kodun düzenli yazılmasını sağlamaktır
